@@ -15,15 +15,14 @@
     "streamifier": "^0.1.1"
   },
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "name": "newfolder",
   "version": "1.0.0",
   "main": "server.js",
   "author": "",
   "license": "ISC",
-  "description": "",
-  "engines": {
-    "node": "18.x"
-  }
+  "description": ""
 }
+  
