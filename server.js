@@ -27,7 +27,7 @@ const connect = async () => {
 
 // Middleware
 app.use(cors({
-    origin: 'https://meghdoothsuzukiservice.luminexa.in/'
+    origin: 'https://meghdoothsuzukiservice.luminexa.in'
 }));
 app.use(helmet());
 app.use(express.json());
